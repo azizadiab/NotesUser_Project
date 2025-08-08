@@ -14,7 +14,7 @@ A simple yet secure Windows Forms application for managing users and notes, buil
 - 🧩 Modular architecture with 3 layers:
   - Data Layer
   - Business Layer
-  - Security Layer
+  - Presentation Layer
 
 ---
 
@@ -62,13 +62,13 @@ NotesUser_Project/
 | Admin  | admin    | admin123  |
 | User   | testuser | test123   |
 
-*(Replace with your actual seeded values if different)*
 
 ---
 
 ## 📸 Screenshots
 
-> *(You can add some screenshots of your app here — login screen, user management, change password, etc.)*
+<img width="600" height="600" alt="NoteUser" src="https://github.com/user-attachments/assets/de83b39d-9553-47e0-ab2d-c6b52d205329" />
+
 
 ---
 
