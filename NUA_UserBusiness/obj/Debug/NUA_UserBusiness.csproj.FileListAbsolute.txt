@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\NUA_UserBusiness\bin\Debug\NUA_UserBusiness.dll
+C:\Users\USER\source\repos\NUA_UserBusiness\bin\Debug\NUA_UserBusiness.pdb
+C:\Users\USER\source\repos\NUA_UserBusiness\obj\Debug\NUA_UserBusiness.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\NUA_UserBusiness\obj\Debug\NUA_UserBusiness.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NUA_UserBusiness\obj\Debug\NUA_UserBusiness.dll
+C:\Users\USER\source\repos\NUA_UserBusiness\obj\Debug\NUA_UserBusiness.pdb
+C:\Users\USER\source\repos\NUA_UserBusiness\bin\Debug\NUA_UserData.dll
+C:\Users\USER\source\repos\NUA_UserBusiness\bin\Debug\NUA_UserData.pdb
+C:\Users\USER\source\repos\NUA_UserBusiness\obj\Debug\NUA_User.B27BAF3E.Up2Date
+C:\Users\USER\source\repos\NUA_UserBusiness\bin\Debug\NUA_Security.dll
+C:\Users\USER\source\repos\NUA_UserBusiness\bin\Debug\NUA_Security.pdb

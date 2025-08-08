@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\NUA_UserData\bin\Debug\NUA_UserData.dll
+C:\Users\USER\source\repos\NUA_UserData\bin\Debug\NUA_UserData.pdb
+C:\Users\USER\source\repos\NUA_UserData\obj\Debug\NUA_UserData.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\NUA_UserData\obj\Debug\NUA_UserData.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NUA_UserData\obj\Debug\NUA_UserData.dll
+C:\Users\USER\source\repos\NUA_UserData\obj\Debug\NUA_UserData.pdb

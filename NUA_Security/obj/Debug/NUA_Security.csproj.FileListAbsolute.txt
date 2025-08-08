@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\NUA_Security\bin\Debug\NUA_Security.dll
+C:\Users\USER\source\repos\NUA_Security\bin\Debug\NUA_Security.pdb
+C:\Users\USER\source\repos\NUA_Security\obj\Debug\NUA_Security.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\NUA_Security\obj\Debug\NUA_Security.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NUA_Security\obj\Debug\NUA_Security.dll
+C:\Users\USER\source\repos\NUA_Security\obj\Debug\NUA_Security.pdb
