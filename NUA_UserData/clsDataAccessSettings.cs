@@ -9,7 +9,7 @@ namespace NUA_UserData
     static class clsDataAccessSettings
     {
 
-   public static string connectionString = "server=.; Database= NotesUserApp; User Id=sa; Password=sa123456;";
+   public static string connectionString = "server=.; Database= NotesUserApp; User Id=sa; Password=3456;";
        
     }
 }
