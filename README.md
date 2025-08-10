@@ -69,6 +69,16 @@ NotesUser_Project/
 
 <img width="600" height="600" alt="NoteUser" src="https://github.com/user-attachments/assets/de83b39d-9553-47e0-ab2d-c6b52d205329" />
 
+<img width="889" height="674" alt="NoteUser1" src="https://github.com/user-attachments/assets/8e46e59a-1f84-49e8-8528-77857e9820fd" />
+
+<img width="830" height="468" alt="NoteUser3" src="https://github.com/user-attachments/assets/5fef92d1-fd48-4bce-a707-2d16c244f119" />
+
+<img width="908" height="616" alt="NoteUser2" src="https://github.com/user-attachments/assets/ba1f8c21-04f4-4553-9d2a-5470287dff16" />
+
+<img width="780" height="613" alt="NoteUser4" src="https://github.com/user-attachments/assets/713b563a-ab8e-4d7e-a113-1b112080c12e" />
+
+
+
 
 ---
 
